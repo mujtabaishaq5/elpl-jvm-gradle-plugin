@@ -17,7 +17,7 @@ By bridging ELPL's English-like, highly readable syntax with the robust JVM ecos
 
 ## ELPL Language and Documentation
 
-ELPL is a publicly documented programming language featuring a powerful compiler, an interactive browser-based IDE, comprehensive technical documentation, and a formal EBNF grammar.
+ELPL is a publicly documented programming language featuring a powerful compiler, an interactive browser-based IDE, comprehensive technical documentation, a formal EBNF grammar and a thorough Syntax guide.
 
 Explore the language and its ecosystem:
 
@@ -25,6 +25,8 @@ Explore the language and its ecosystem:
 - **[Language Documentation and Grammar](https://elpl-d8625.web.app/resources.html)** — Access downloadable Markdown documentation, sample code, and EBNF grammar files.
 - **[ELPL Compiler (`elplc`)](https://elpl-d8625.web.app/download.html)** — Learn about the compiler and its available commands.
 - **[ELPL Ecosystem](https://elpl-d8625.web.app/ecosystem.html)** — Explore ELPL tooling, platform support, and integrations.
+- **[ELPL Syntax](https://elpl-d8625.web.app/Syntax.html)** — Explore ELPL Syntax and Grammar.
+- **[ELPL Android](https://elpl-d8625.web.app/android.html)** — Explore Exclusive Android Guide.
 
 ## Features
 
