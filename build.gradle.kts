@@ -25,7 +25,7 @@ gradlePlugin {
             id = "io.github.mujtabaishaq5.elpl.jvm"
             implementationClass = "com.syedm.elpl.gradle.ElplJvmPlugin"
             displayName = "ELPL JVM Plugin"
-            description = "Compiles ELPL source code into standard JVM .class and .jar files"
+            description = "Compiles ELPL source files into standard JVM .class files for Gradle builds."
             tags.set(listOf("elpl", "compiler", "jvm", "language"))
         }
     }
