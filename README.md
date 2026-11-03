@@ -53,7 +53,7 @@ In your standard JVM project's `build.gradle.kts` file, apply the standard Java 
 ```kotlin
 plugins {
     id("java")
-    id("io.github.mujtabaishaq5.elpl.jvm") version "1.0.0"
+    id("io.github.mujtabaishaq5.elpl.jvm") version "1.0.1"
 }
 
 repositories {

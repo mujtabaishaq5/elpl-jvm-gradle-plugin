@@ -32,7 +32,7 @@ abstract class CompileElplJvmTask @Inject constructor(
         outDir.mkdirs()
 
         // Resolve the compiler JAR (Local -> Cache -> Download)
-        val localDevJar = File(System.getProperty("user.home"), "Projects/ELPL 2/elpl-compiler.jar")
+        val localDevJar = File(System.getProperty("user.home"), "Projects/ELPL-Compiler-NEW-Project/elpl-compiler.jar")
         val compilerJarFile: File
 
         if (localDevJar.exists()) {

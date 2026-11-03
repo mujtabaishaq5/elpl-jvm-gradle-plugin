@@ -7,7 +7,7 @@ plugins {
 }
 
 group = "io.github.mujtabaishaq5"
-version = "1.0.0" // Reset to 1.0.0 for this new plugin
+version = "1.0.1" // Reset to 1.0.0 for this new plugin
 
 repositories {
     google()
